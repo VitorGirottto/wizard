@@ -292,3 +292,5 @@ $wizard -> CalcularProporcional($valor_novo);
 $wizard -> GerarBoleto($valor_novo);
 
 ?>
+
+//fim
