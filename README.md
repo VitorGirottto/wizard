@@ -113,6 +113,10 @@ Boleto com o vencimento 28/3 no valor de R$ 90.00 gerado!!
   gerar o boleto ou calcular o valor proporcional para a próxima parcela.
 
 ## Como Usar:
+1. Pode estar acessando o código no meu GDB online pelo código https://onlinegdb.com/nihWFcI3F
+
+  OU
+   
 1. Abra o terminal ou console e execute o código PHP.
 2. Configure os parâmetros no início da classe `wizard` (tipo de contrato, mês de alteração, etc.).
 3. O sistema vai solicitar entradas, como o tipo de alteração (upgrade ou downgrade), o valor do novo plano, 
