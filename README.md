@@ -113,7 +113,7 @@ Boleto com o vencimento 28/3 no valor de R$ 90.00 gerado!!
   gerar o boleto ou calcular o valor proporcional para a próxima parcela.
 
 ## Como Usar:
-1. Pode estar acessando o código no meu GDB online pelo código https://onlinegdb.com/nihWFcI3F
+1. Pode estar acessando o código no meu GDB online pelo link e estar executando por la https://onlinegdb.com/nihWFcI3F
 
   OU
    
